@@ -16,3 +16,6 @@ dependencies:
   - python=3.12
   - seaborn
   - scikit-learn
+  - statsmodels 
+  - xgboost
+  - shap

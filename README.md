@@ -1,1 +1,1 @@
-# riesgo_credito
+# MODELO DE CLASIFICACIÓN EN RIESGO DE CRÉDITO 
